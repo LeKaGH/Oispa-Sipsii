@@ -15,18 +15,14 @@ function HTMLActuator() {
 
 dogeSayings = [
   'Pärinät!', 
-  'ES <3',
-  'Megis!',
-  'Monsua!',
-  'Sokerihumala!',
-  'Mopo viritetty!',
-  'Kongia <3',
-  'Red Bullia <3',
-  'Battery!',
-  'Pinkki Monsu <3',
-  'Red Devilii!',
-  'Tehoa lisää!',
-  'Kultaista Red Devilii!'
+  'Taffel <3',
+  'Vitusti Rasvaa!',
+  'Broadway!',
+  'Sourcream and Onion <3',
+  'Estrella!',
+  'Ranch <3',
+  'Taffeli on parasta!',
+  'Sips!'
 ]
 
 HTMLActuator.prototype.actuate = function (grid, metadata) {
@@ -148,7 +144,7 @@ HTMLActuator.prototype.updateScore = function (score) {
 
   if (difference > 0) {
 
-    snd = new Audio("http://oispasipsii.tk/snd/pen/pencil_scribble0" + Math.floor(Math.random() * 3).toString() + ".ogg")
+    snd = new Audio("https://oispasipsii.tk/snd/pen/pencil_scribble0" + Math.floor(Math.random() * 3).toString() + ".ogg")
 
     var addition = document.createElement("div");
     addition.classList.add("score-addition");

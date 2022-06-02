@@ -5,17 +5,17 @@ window.requestAnimationFrame(function () {
 
 
     var imageList = [
-        "http://oispasipsii.tk/img/2.png",
-        "http://oispasipsii.tk/img/4.png",
-        "http://oispasipsii.tk/img/8.png",
-        "http://oispasipsii.tk/img/16.png",
-        "http://oispasipsii.tk/img/32.png",
-        "http://oispasipsii.tk/img/64.png",
-        "http://oispasipsii.tk/img/128.png",
-        "http://oispasipsii.tk/img/256.png",
-        "http://oispasipsii.tk/img/512.png",
-        "http://oispasipsii.tk/img/1024.png",
-        "http://oispasipsii.tk/img/2048.png"
+        "https://oispasipsii.tk/img/2.png",
+        "https://oispasipsii.tk/img/4.png",
+        "https://oispasipsii.tk/img/8.png",
+        "https://oispasipsii.tk/img/16.png",
+        "https://oispasipsii.tk/img/32.png",
+        "https://oispasipsii.tk/img/64.png",
+        "https://oispasipsii.tk/img/128.png",
+        "https://oispasipsii.tk/img/256.png",
+        "https://oispasipsii.tk/img/512.png",
+        "https://oispasipsii.tk/img/1024.png",
+        "https://oispasipsii.tk/img/2048.png"
 
     ];
     for(var i = 0; i < imageList.length; i++ )
