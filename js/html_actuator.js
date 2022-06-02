@@ -13,8 +13,7 @@ function HTMLActuator() {
 
 }
 
-dogeSayings = [
-  'Pärinät!', 
+dogeSayings = [ 
   'Taffel <3',
   'Vitusti Rasvaa!',
   'Broadway!',
