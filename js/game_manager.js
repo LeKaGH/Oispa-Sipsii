@@ -79,7 +79,6 @@ GameManager.prototype.setup = function () {
     snd = [];
     snd[0] = new Audio("https://www.oispakalussa.tk/snd/paper/page_turning0.ogg");
     snd[1] = new Audio("https://www.oispakalussa.tk/snd/paper/page_turning1.ogg");
-    snd[2] = new Audio("https://www.oispakalussa.tk/snd/paper/page_turning2.ogg");
 
   // Add the initial tiles
   this.addStartTiles();
