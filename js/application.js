@@ -15,7 +15,8 @@ window.requestAnimationFrame(function () {
         "https://oispasipsii.tk/img/256.png",
         "https://oispasipsii.tk/img/512.png",
         "https://oispasipsii.tk/img/1024.png",
-        "https://oispasipsii.tk/img/2048.png"
+        "https://oispasipsii.tk/img/2048.png",
+        "https://oispasipsii.tk/img/super.png"
 
     ];
     for(var i = 0; i < imageList.length; i++ )
